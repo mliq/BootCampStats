@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<style>
+  body { margin:0; }
+</style>
+<script src="ads_data/ados" async="" type="text/javascript"></script><script type="text/javascript" src="ads_data/jquery.js"></script>
+<script type="text/javascript" src="ads_data/ados.js"></script>
+<script type="text/javascript">
+function getParameterByName(name)
+{
+  name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+  var regexS = "[\\?&]" + name + "=([^&#]*)";
+  var regex = new RegExp(regexS);
+  var results = regex.exec(window.location.search);
+  if(results == null)
+    return "";
+  else
+    return decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
+ados_results = null;
+ados.isAsync = true;
+ados_add_placement(5146, 24950, "main", 5);
+ados_add_placement(5146, 24950, "sponsorship", 8);
+ados_setWriteResults(true);
+var keywords = getParameterByName("sr");
+if(keywords != "")
+  ados_setKeywords(keywords);
+ados_load();
+</script>
+<script type="text/javascript">
+  target = location.hash.substr(1);
+  window.name = 'ad_main';
+  var timeout = 0;
+  var loadSponsorship = function() {
+    timeout++;
+    if(ados_results) {
+      if(ados_results["sponsorship"]) {
+        if (window.postMessage) {
+          window.parent.postMessage('ados.createAdFrame:sponsorship', target);
+        } else {
+          iframe = document.createElement('iframe');
+          iframe.src = 'http://www.reddit.com/static/createadframe.html';
+          iframe.style.display = 'none';
+          document.documentElement.appendChild(iframe);
+        }
+      }
+    }
+    else {
+      if(timeout < 200) {
+        setTimeout(loadSponsorship, 10);
+      }
+    }
+  }
+  $(window).load(loadSponsorship);
+</script>
+<script src="ads_data/adFeedback.js" type="text/javascript"></script><link href="ads_data/adFeedback.css" rel="stylesheet"></head>
+<body>
+<div class="adzerk-vote" id="main"><a href="http://engine.adzerk.net/r?e=eyJhdiI6MTg4MjcsImF0Ijo1LCJidCI6MCwiY20iOjU5NTU4LCJjaCI6Nzk4NCwiY3IiOjY0NzE5OCwiZGkiOiJjYzU0MDg2M2JmYmE0ZjBiYTYyMjgxNGNkN2Y2M2NjZCIsImRtIjoxLCJmYyI6NjY1OTM3LCJmbCI6MjY0OTM3LCJpcCI6IjY4LjQ3LjQ0LjEwOSIsImt3IjoicHl0aG9uLGxvZ2dlZG91dCIsIm53Ijo1MTQ2LCJwYyI6MCwicHIiOjIwMzY1LCJydCI6MSwicmYiOiJodHRwOi8vd3d3LnJlZGRpdC5jb20vci9QeXRob24vY29tbWVudHMvMmdiMnR3L3dyaXRpbmdfbXlfZmlyc3RfdXNlZnVsX3NjcmlwdF9pbl9weXRob25fbGlua2VkaW4vIiwic3QiOjI0OTUwLCJ0ciI6dHJ1ZSwidWsiOiJ1ZTEtZGU3MTgwOGZlMDVmNGJlNWJmYmNhZjEwNDA2OTVmMTMiLCJ0cyI6MTQxODg1MDUwNjc4OSwiYmYiOnRydWUsInVyIjoiaHR0cHM6Ly93YXRzaS5vcmcvZ2lmdC1jYXJkcyJ9&amp;s=Etz5NqpPaL-vQZdlIPkG3znjfPw" rel="nofollow" target="_blank" title=""><img src="ads_data/c9ed6ea52b324c8c868ff8e6d3e1cb6d.jpg" title="" alt="" border="0" height="250" width="300"></a><div class="adzerk-vote-controls" style="display:none;"><div class="adzerk-vote-option adzerk-vote-up"><div class="adzerk-vote-icon"></div></div><div class="adzerk-vote-option adzerk-vote-down"><div class="adzerk-vote-icon"></div></div></div><div class="adzerk-vote-survey" style="display:none;"><form><span>No problem. We won't show you that ad again. Why didn't you like it?</span><ul><li><label><input value="12" name="downvoteReason" type="radio">Uninteresting</label></li><li><label><input value="13" name="downvoteReason" type="radio">Misleading</label></li><li><label><input value="14" name="downvoteReason" type="radio">Offensive</label></li><li><label><input value="15" name="downvoteReason" type="radio">Repetitive</label></li></ul><a href="#" class="adzerk-vote-cancel">Oops! I didn't mean to do this.</a></form></div><img src="ads_data/i.gif" style="position:absolute;" border="0" height="0px" width="0px"></div>
+<div id="redditthis" style="width:300px;text-align:center;"><a style="font: small verdana,arial,sans-serif;color: #369;text-decoration: none;" target="top" href="http://ads.reddit.com/submit?url=http%3A%2F%2Fstatic.adzerk.net%2FAdvertisers%2Fc9ed6ea52b324c8c868ff8e6d3e1cb6d.jpg">discuss this ad on reddit</a></div>
+<script type="text/javascript">
+  var timeout = 0;
+  var addFooter = function() {
+    var image;
+    if($('iframe').length > 0) {
+      image = $('iframe').contents().find("img").first()[0];
+    }
+    else {
+      image = $('#main img').first()[0];
+    }
+    
+    if (image == undefined) {
+      timeout++;
+      if(timeout < 200) {
+        setTimeout(addFooter, 10);
+      }
+    }
+    else {
+      var url = image.src;
+      if (url) {
+        $('#redditthis').append("<a style=\"font: small verdana,arial,sans-serif;color: #369;text-decoration: none;\" target=\"top\" href=\"http://ads.reddit.com/submit?url=" + encodeURIComponent(url) + "\">discuss this ad on reddit</a>");
+      }
+    }
+  };
+  $(window).load(addFooter);
+</script>
+
+</body></html>

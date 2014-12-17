@@ -1,0 +1,8 @@
+
+-http://blog.ikotler.org/2012/12/scraping-linkedin-public-profiles-for.html
+-https://developer.linkedin.com/documents/people-search-api
+
+I do think i'd need to use API perhaps because i can't see all profiles.
+
+[Legality?](http://www.quora.com/Is-web-scraping-on-LinkedIn-for-a-class-project-legal-We-hope-to-build-a-database-for-alumni-Can-we-use-the-public-API-for-this)
+[](http://en.wikipedia.org/wiki/Web_scraping)
