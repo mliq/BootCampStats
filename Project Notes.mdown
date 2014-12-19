@@ -6,3 +6,26 @@ I do think i'd need to use API perhaps because i can't see all profiles.
 
 [Legality?](http://www.quora.com/Is-web-scraping-on-LinkedIn-for-a-class-project-legal-We-hope-to-build-a-database-for-alumni-Can-we-use-the-public-API-for-this)
 [](http://en.wikipedia.org/wiki/Web_scraping)
+
+
+----
+
+#What is REST?
+[LINK](http://rest.elkstein.org/2008/02/what-is-rest.html)
+REST is an architecture style for designing networked applications. The idea is that, rather than using complex mechanisms such as CORBA, RPC or SOAP to connect between machines, simple HTTP is used to make calls between machines.
+
+    In many ways, the World Wide Web itself, based on HTTP, can be viewed as a REST-based architecture.
+
+RESTful applications use HTTP requests to post data (create and/or update), read data (e.g., make queries), and delete data. Thus, REST uses HTTP for all four CRUD (Create/Read/Update/Delete) operations.
+
+REST is a lightweight alternative to mechanisms like RPC (Remote Procedure Calls) and Web Services (SOAP, WSDL, et al.). Later, we will see how much more simple REST is.
+
+In general: RPC is any mechanism that allows you to execute methods remotely (although some technologies adapted that as a proper name, it's a general name for many such technologies). This includes CORBA, Java RMI, SOAP-based Web Services, and REST. Some of these systems use binary data transfer (CORBA, Java RMI), and others are text-based; some of the text-based ones are actually XML-based.
+
+XMLRPC is a general name for any XML-based RPC system, i.e., a system where the data that passes between client and server is XML data. There are generic XMLRPC systems (Java's JAX-RPC comes to mind) but when discussing XMLRPC, the key technology is SOAP-based Web Services.
+
+Web services is a generic name for web-based RPC. This includes SOAP-based web services, which normally go by the proper name "Web Services"; but now, REST is also considered a web-service architecture.
+
+SOAP is an XMLRPC web service, i.e., a web-based RPC that uses XML for data transfer, and more specifically, it uses the SOAP data format (an XML schema) for the queries and their replies.
+
+REST is a non-XML-based, web-based RPC; but it is also a design philosophy and architecture. Read this tutorial site for more details. 

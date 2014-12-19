@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46bb6b8f-2662-4db6-b73c-c6ae1ae1df9e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Authorize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Authorize_RetreiveMyConnections.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/-9dd03eeb11527463.png" afterPath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/-9dd03eeb11527463.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/-ecc40f52619f79e0.swf" afterPath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/-ecc40f52619f79e0.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/60px-Edit-clear.png" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/60px-Edit-clear.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/8HiO52_EuT_h63Qg.png" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/8HiO52_EuT_h63Qg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/Warning.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/Warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/b36-rounded.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/b36-rounded.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/b8189468fbb8c12208ffde0427b8f50d_thumb_qmLogo.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/b8189468fbb8c12208ffde0427b8f50d_thumb_qmLogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/blank.gif" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/c9ed6ea52b324c8c868ff8e6d3e1cb6d.jpg" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/c9ed6ea52b324c8c868ff8e6d3e1cb6d.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/close.gif" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/close.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/dos_figure_4.gif" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/dos_figure_4.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/facebook-logo-square.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/facebook-logo-square.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/google.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/google.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/i.gif" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/i.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/i1.jpg" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/i1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/i2.jpg" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/i2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/icon18_edit_allbkg.gif" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/icon18_edit_allbkg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/icon18_wrench_allbkg.png" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/icon18_wrench_allbkg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/icon18_wrench_allbkg.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/icon18_wrench_allbkg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/imagebw.jpg" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/imagebw.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/linkedin-logo-square2.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/linkedin-logo-square2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/noavatar92.png" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/noavatar92.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/noavatar92_002.png" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/noavatar92_002.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/openid36-rounded.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/openid36-rounded.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/p1.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1_data/p1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/fastbutton_data/photo.jpg" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/fastbutton_data/photo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/fastbutton_data_002/photo.jpg" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/fastbutton_data_002/photo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/poweredby_mediawiki_88x31.png" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/poweredby_mediawiki_88x31.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/rsz_p1030336.jpg" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/rsz_p1030336.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/temp.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/temp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/twitter-logo-square.png" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/twitter-logo-square.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/wikimedia-button-1.png" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/wikimedia-button-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/-5e2cd649113c9e73.css" afterPath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/-5e2cd649113c9e73.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/1780426004-comment_from_post_iframe.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/1780426004-comment_from_post_iframe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/2088207789-cmt.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/2088207789-cmt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/335733004-cmtfp.css" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/335733004-cmtfp.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/3531939649-widget_css_2_bundle.css" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/3531939649-widget_css_2_bundle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/3908459997-widget_css_bundle.css" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/3908459997-widget_css_bundle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/7r8gQb8MIqE.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/7r8gQb8MIqE.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/7r8gQb8MIqE_002.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/7r8gQb8MIqE_002.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/postmessageRelay_data/919662793-postmessagerelay.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/postmessageRelay_data/919662793-postmessagerelay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/postmessageRelay_data/919662793-postmessagerelay.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/postmessageRelay_data/919662793-postmessagerelay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/942561116-widgets.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/942561116-widgets.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/942561116-widgets.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/942561116-widgets.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/AlUrsvKWSw3I_RWAos-64PFSgXU3xvqpEA4Gxq1jPWs.css" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/AlUrsvKWSw3I_RWAos-64PFSgXU3xvqpEA4Gxq1jPWs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit.html" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network.htm" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project Notes.mdown" afterPath="$PROJECT_DIR$/Project Notes.mdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics.html" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia.htm" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python.htm" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/_LGDVxBNeiVjW7Xrd61eCgUINrgZZRD0FTkm1o6RMoI.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe_data/_LGDVxBNeiVjW7Xrd61eCgUINrgZZRD0FTkm1o6RMoI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a.htm" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/adFeedback.css" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/adFeedback.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/adFeedback.js" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/adFeedback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/ados.js" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/ados.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/ados" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/ados" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads.htm" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/all.js" afterPath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/all.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/all.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/all.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/analytics.js" afterPath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/analytics.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/postmessageRelay_data/api.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/postmessageRelay_data/api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/postmessageRelay_data/api.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/postmessageRelay_data/api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/authorization.css" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/authorization.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/authorization.css" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/authorization.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/beacon.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/beacon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/blank.htm" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/blank.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/blank.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/blank.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/blogger_index.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/blogger_index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/blogger_item.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/blogger_item.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_0" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/navbar_data/cbgapi.loaded_0" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/navbar_data/cbgapi.loaded_0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/cbgapi.loaded_0" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/cbgapi.loaded_0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/navbar_data/cbgapi.loaded_0" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/navbar_data/cbgapi.loaded_0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_1" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/cbgapi.loaded_1" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/cbgapi.loaded_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_2" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/cbgapi.loaded_2" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/cbgapi.loaded_2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_3" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_4" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/cbgapi.loaded_4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/codetoggle.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/codetoggle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comment-iframe.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comments.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/comments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/common.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/config.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/postmessageRelay_data/corerpcshindig.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/postmessageRelay_data/corerpcshindig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/postmessageRelay_data/corerpcshindig.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/postmessageRelay_data/corerpcshindig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/count-data.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/count-data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/count.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/count.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/tweet_button_data/count.json" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/tweet_button_data/count.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_Fyx9CM6fQG4ql5B1pPut5TIqgl8tBi5z1P-hpkK_dY4.css" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_Fyx9CM6fQG4ql5B1pPut5TIqgl8tBi5z1P-hpkK_dY4.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_LWJYI-ywEFvuJBD-GHXuvH7xKeb9wgc8aGM0G1XtApU.css" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_LWJYI-ywEFvuJBD-GHXuvH7xKeb9wgc8aGM0G1XtApU.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_w5Cmbyv2u3HaDLLPqKJfzHIZrscDON5cmLdaU8j5w5o.css" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_w5Cmbyv2u3HaDLLPqKJfzHIZrscDON5cmLdaU8j5w5o.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_xmulMV-ScrRRPV9cF9nvbdKCmsmwy7XEOn4KsmBLQJM.css" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/css_xmulMV-ScrRRPV9cF9nvbdKCmsmwy7XEOn4KsmBLQJM.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/custom_search.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/custom_search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/default.css" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/default.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/default.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/discovery.css" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/discovery.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/discovery.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/discovery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/drupal.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/drupal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/embed.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/embed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/event.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/event.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/event_002.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/event_002.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/event_003.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/event_003.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/fastbutton.htm" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/fastbutton.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/navbar_data/fastbutton.htm" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/navbar_data/fastbutton.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/fastbutton.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/fastbutton.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/navbar_data/fastbutton.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/navbar_data/fastbutton.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/fastbutton_002.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/fastbutton_002.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/framework" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/framework" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/ga.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/ga.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/ga.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/ga.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/ga.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/ga.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ga.js" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ga.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/google_top_exp.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/google_top_exp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/google_top_exp.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/google_top_exp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/googleanalytics.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/googleanalytics.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/inpage_linkid.js" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/inpage_linkid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/instart.js" afterPath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/instart.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/instart_002.js" afterPath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/instart_002.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/jquery-latest.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/jquery-latest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/jquery.js" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/ads_data/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery_002.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery_002.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery_003.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery_003.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery_004.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery_004.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery_005.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/jquery_005.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/like.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/like.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/linkedin_sso.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/linkedin_sso.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load.css" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load.php" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load_002.css" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load_002.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load_002.php" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load_002.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load_003.php" afterPath="$PROJECT_DIR$/REF/Web scraping - Wikipedia, the free encyclopedia_files/load_003.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/loader.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/lounge.css" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/lounge.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/lounge.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/lounge.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/lounge_002.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/a_data/lounge_002.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/navbar.htm" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/navbar.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/navbar.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/navbar.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/old-markdown.css" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/old-markdown.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/p1.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/navbar_data/platformgapi.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/navbar_data/platformgapi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/navbar_data/platformgapi.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/navbar_data/platformgapi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/plusone.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/plusone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/plusone.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/plusone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/postmessageRelay.htm" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/postmessageRelay.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/postmessageRelay.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/postmessageRelay.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/reddit-init.js" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/reddit-init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/reddit.css" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/reddit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/reddit.js" afterPath="$PROJECT_DIR$/REF/Writing my first useful script in Python  LinkedIn   Python_files/reddit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scraper.py" afterPath="$PROJECT_DIR$/scraper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/shAutoloader.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/shAutoloader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushAsm.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushAsm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushBash.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushBash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushCSharp.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushCSharp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushCpp.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushCpp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushCss.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushCss.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushJScript.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushJScript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushJava.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushJava.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushPerl.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushPerl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushPhp.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushPhp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushPlain.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushPlain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushPython.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushPython.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushRuby.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushRuby.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushSql.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushSql.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushVb.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushVb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushXml.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shBrushXml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shCore.css" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shCore.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shCore.js" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shCore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/shCore.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/shCore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shThemeEmacs.css" afterPath="$PROJECT_DIR$/REF/I hack, therefore I am  Scraping LinkedIn Public Profiles for Fun and Profit_files/shThemeEmacs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/tweet_button.htm" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/tweet_button.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/userspace" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/userspace" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/widget_generator.js" afterPath="$PROJECT_DIR$/REF/LinkedIn APIs Terms of Use _ LinkedIn Developer Network_files/widget_generator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/widgets.js" afterPath="$PROJECT_DIR$/REF/(61) Is web scraping on LinkedIn for a class project legal  We hope to build a database for alumni. Can we use the public API for this  - Quora_files/widgets.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/widgets.js" afterPath="$PROJECT_DIR$/REF/Quantifying Memory  Web-Scraping  the Basics_files/widgets.js" />
+    </list>
+    <ignored path="BootCampStats.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BootCampStats" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Authorize.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Authorize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8064159" vertical-offset="0" max-vertical-offset="904">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authorize_RetreiveMyConnections.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Authorize_RetreiveMyConnections.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1404">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Auth.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/REF/HIDE/Auth.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Developer Network  Application Keys _ LinkedIn.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/REF/HIDE/Developer Network  Application Keys _ LinkedIn.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="19.166666" vertical-offset="36438" max-vertical-offset="37611">
+              <caret line="1324" column="1" selection-start-line="1324" selection-start-column="1" selection-end-line="1324" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/REF/HIDE/Auth.txt" />
+        <option value="$PROJECT_DIR$/Authorize.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="825" />
+    <option name="width" value="1095" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootCampStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootCampStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootCampStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootCampStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootCampStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootCampStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootCampStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HIDE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael\SkyDrive\Code\GitHub\BootCampStats" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael\SkyDrive\Code\GitHub\BootCampStats\REF\HIDE" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Authorize">
+    <configuration default="false" name="Authorize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootCampStats" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Authorize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootCampStats" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootCampStats" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootCampStats" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootCampStats" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootCampStats" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BootCampStats" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Authorize" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.Authorize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46bb6b8f-2662-4db6-b73c-c6ae1ae1df9e" name="Default" comment="" />
+      <created>1418913228632</created>
+      <option name="number" value="Default" />
+      <updated>1418913228632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="825" y="0" width="1095" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8036286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="703" y="98" width="1203" height="751" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4279616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.471537" sideWeight="0.49944752" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24952562" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16969274" sideWeight="0.5005525" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/REF/HIDE/Developer Network  Application Keys _ LinkedIn.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="19.166666" vertical-offset="36438" max-vertical-offset="37611">
+          <caret line="1324" column="1" selection-start-line="1324" selection-start-column="1" selection-end-line="1324" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REF/HIDE/Auth.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authorize_RetreiveMyConnections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1404">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Authorize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8064159" vertical-offset="0" max-vertical-offset="904">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
